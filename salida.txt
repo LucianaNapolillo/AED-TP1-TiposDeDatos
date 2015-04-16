@@ -1,0 +1,40 @@
+$ ./out 
+¿Cuántas personas desea ingresar?: 3
+
+Ingrese la fecha actual: 
+	Dia: 34
+Ingrese un día válido!
+
+	Dia: 15
+	Mes: 42
+Ingrese un mes válido!
+	Mes: 4
+	Año: 2015
+♦ Ingresa el nombre de la persona nro. 1: Pablo
+♦ Ingresa el apellido: Perez
+
+♦ Ingresa la fecha de nacimiento: 
+	Dia: 16
+	Mes: 1
+	Año: 1965
+♦ Ingresa el nombre de la persona nro. 2: Fernanda 
+♦ Ingresa el apellido: Martinez
+
+♦ Ingresa la fecha de nacimiento: 
+	Dia: 14
+	Mes: 3
+	Año: 2024
+Ingrese un año válido!
+	Año: 1964
+♦ Ingresa el nombre de la persona nro. 3: Viviana
+♦ Ingresa el apellido: Flores
+
+♦ Ingresa la fecha de nacimiento: 
+	Dia: 13
+	Mes: 5
+	Año: 1994
+
+
+♦ El promedio de edades es 40.3333
+♦ La persona con mayor edad es Fernanda Martinez
+
