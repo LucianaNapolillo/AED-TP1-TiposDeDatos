@@ -1,40 +1,33 @@
-$ ./out 
-¿Cuántas personas desea ingresar?: 3
-
 Ingrese la fecha actual: 
-	Dia: 34
-Ingrese un día válido!
-
-	Dia: 15
-	Mes: 42
-Ingrese un mes válido!
+	Dia: 22
 	Mes: 4
 	Año: 2015
-♦ Ingresa el nombre de la persona nro. 1: Pablo
-♦ Ingresa el apellido: Perez
 
+♦ Ingresa el nombre de la persona nro. 1: Pedro
+♦ Ingresa el apellido: Gomez
 ♦ Ingresa la fecha de nacimiento: 
-	Dia: 16
-	Mes: 1
-	Año: 1965
-♦ Ingresa el nombre de la persona nro. 2: Fernanda 
-♦ Ingresa el apellido: Martinez
-
-♦ Ingresa la fecha de nacimiento: 
-	Dia: 14
+	Dia: 15
 	Mes: 3
-	Año: 2024
-Ingrese un año válido!
-	Año: 1964
-♦ Ingresa el nombre de la persona nro. 3: Viviana
-♦ Ingresa el apellido: Flores
+	Año: 1970
 
+♦ Ingresa el nombre de la persona nro. 2: Fernanda
+♦ Ingresa el apellido: Sanchez
 ♦ Ingresa la fecha de nacimiento: 
-	Dia: 13
-	Mes: 5
+	Dia: 30
+	Mes: 4
 	Año: 1994
 
+¿Desea ingresar mas personas? S/N: s
 
-♦ El promedio de edades es 40.3333
-♦ La persona con mayor edad es Fernanda Martinez
+♦ Ingresa el nombre de la persona nro. 3: Marcos
+♦ Ingresa el apellido: Gonzalez
+♦ Ingresa la fecha de nacimiento: 
+	Dia: 20
+	Mes: 8
+	Año: 1982
 
+¿Desea ingresar mas personas? S/N: n
+
+
+♦ El promedio de edades es 32.3333
+♦ La persona con mayor edad es Pedro Gomez
